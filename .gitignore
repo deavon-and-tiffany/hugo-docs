@@ -1,0 +1,16 @@
+# hidden files and folders
+.*
+
+# github
+!.github/
+
+# vscode
+!.vscode/
+
+!.gitignore
+!.gitattributes
+!.editorconfig
+
+# hugo
+public
+_gen
